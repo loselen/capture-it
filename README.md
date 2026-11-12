@@ -1,4 +1,4 @@
-# capture
+# capture-it
 
 A tiny agent skill for catching ideas while you're busy, and deciding what to explore next once you're free.
 
@@ -16,7 +16,7 @@ A tiny agent skill for catching ideas while you're busy, and deciding what to ex
 ## Install
 
 ```bash
-npx skills add loselen/capture
+npx skills add loselen/capture-it
 ```
 
 ## Usage
@@ -24,13 +24,13 @@ npx skills add loselen/capture
 Capture an idea:
 
 ```
-/capture a tool that turns voice memos into todo lists
+/capture-it a tool that turns voice memos into todo lists
 ```
 
 Run elimination when you're done with your current project:
 
 ```
-/capture elimination
+/capture-it elimination
 ```
 
 ## Where are my ideas stored?

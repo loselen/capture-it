@@ -1,5 +1,5 @@
 ---
-name: capture
+name: capture-it
 description: Capture passing ideas into ~/Documents/ideas.md, and later run elimination mode to judge each idea and synthesize one next thing to explore. Use when the user wants to jot down an idea/thought, or says they finished a project and want to review/eliminate ideas.
 ---
 
